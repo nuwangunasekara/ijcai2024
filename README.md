@@ -1,5 +1,5 @@
 # Machine Learning for Streaming Data 
-## IJCAI 2024 tutorial, Jeju (South Korea)
+## Tutorial, Jeju (South Korea)
 ![Alt text](Stream.png)
 
 Machine learning for data streams (MLDS) attempts to extract knowledge from a stream of non-IID data.
