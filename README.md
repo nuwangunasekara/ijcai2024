@@ -1,5 +1,5 @@
 # Machine Learning for Streaming Data 
-(IJCAI 2024 Tutorial)
+![Alt text](Stream.png)
 
 Machine learning for data streams (MLDS) attempts to extract knowledge from a stream of non-IID data.
 It has been a significant research area since the late 1990s, with increasing adoption in the industry over the past few years due to the emergence of Industry 4.0, where more industry processes are monitored online. Practitioners are presented with challenges such as detecting and adapting to concept drifts, continuously evolving models, and learning from partially labeled and unlabeled data.
