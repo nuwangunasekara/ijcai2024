@@ -1,1 +1,1 @@
-# ijcai2024_sl
+# Stream Learning Tutorial 2024
