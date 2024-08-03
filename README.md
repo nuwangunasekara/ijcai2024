@@ -18,7 +18,7 @@ In this tutorial, our objective is to familiarize attendees with applying divers
 # Resources
 ## CapyMOA
 - [Github](https://github.com/adaptive-machine-learning/CapyMOA)
-- [Installation Instructions](https://nuwangunasekara.github.io/ijcai2024/INSTALL.md)
+- [Installation Instructions](https://capymoa.org/installation)
 ## Notebooks
 - [IJCAI_2024_introduction.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_introduction.ipynb)
 - [IJCAI_2024_drift.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_drift.ipynb)
