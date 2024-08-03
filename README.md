@@ -52,3 +52,8 @@ Short list of tutorials:
 -  Bifet A., Pfahringer B.: Hands-on Tutorial on Massive Online Analytics. KDD 2017.
 -  Weka: A Tool for Exploratory Data Mining. IEEE Symposium Series on Computational Intelligence 2007.
 -  Witten I.H., Frank E., Pfahringer B., Hall M.: Inside WEKA – and Beyond the Book, Tutorial at ICML 2002.
+
+# Resources
+## Notebooks
+- [IJCAI_2024_ensembles.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_ensembles.ipynb)
+## Slides
