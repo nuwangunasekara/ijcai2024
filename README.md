@@ -15,6 +15,20 @@ In this tutorial, our objective is to familiarize attendees with applying divers
 - Modelling and addressing **partially and delayed labeled data streams** using semi-supervised and active learning
 - The idiosyncrasies of applying and evaluating **clustering** on a data stream
 
+# Resources
+## CapyMOA
+- [Github](https://github.com/adaptive-machine-learning/CapyMOA)
+- [Installation Instructions](https://nuwangunasekara.github.io/ijcai2024/INSTALL.md)
+## Notebooks
+- [IJCAI_2024_introduction.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_introduction.ipynb)
+- [IJCAI_2024_drift.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_drift.ipynb)
+- [IJCAI_2024_supervised.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_supervised.ipynb)
+- [IJCAI_2024_prediction_intervals.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_prediction_intervals.ipynb)
+- [IJCAI_2024_advanced.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_advanced.ipynb)
+
+
+## Slides
+
 ## Organizers
 
 ### Heitor Murilo Gomes
@@ -52,8 +66,3 @@ Short list of tutorials:
 -  Bifet A., Pfahringer B.: Hands-on Tutorial on Massive Online Analytics. KDD 2017.
 -  Weka: A Tool for Exploratory Data Mining. IEEE Symposium Series on Computational Intelligence 2007.
 -  Witten I.H., Frank E., Pfahringer B., Hall M.: Inside WEKA – and Beyond the Book, Tutorial at ICML 2002.
-
-# Resources
-## Notebooks
-- [IJCAI_2024_ensembles.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_ensembles.ipynb)
-## Slides
