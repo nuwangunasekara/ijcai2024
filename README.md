@@ -8,12 +8,12 @@ It has been a significant research area since the late 1990s, with increasing ad
 Despite commendable efforts in open-source libraries, a gap persists between pioneering research and accessible tools, presenting challenges for practitioners, including experienced data scientists, in implementing and evaluating methods in this complex domain. Our tutorial addresses this gap with a dual focus. We discuss advanced research topics, such as partially delayed labeled streams, while providing practical demonstrations of their implementation and assessment using Python. By catering to both researchers and practitioners, this tutorial aims to empower users in designing, conducting experiments, and extending existing methodologies.
 
 ## Goals and Objectives
-In this tutorial, our objective is to familiarize attendees with applying diverse machine-learning tasks to streaming data. Beyond an introductory overview, where we delineate the learning cycle of typical supervised learning tasks, we steer our focus towards pertinent challenges seldom addressed in conventional tutorials, such as: 
-
-- **Prediction Intervals** for regression tasks
-- **Concept drift** detection, visualization and evaluation
-- Modelling and addressing **partially and delayed labeled data streams** using semi-supervised and active learning
-- The idiosyncrasies of applying and evaluating **clustering** on a data stream
+In this tutorial, our objective is to familiarize attendees with applying diverse machine-learning tasks to streaming data.
+Beyond an introductory overview, where we delineate the learning cycle of typical supervised learning tasks, we steer our focus towards pertinent challenges such as:
+Prediction Intervals for regression tasks;
+Concept drift detection, visualization and evaluation;
+Modelling and addressing partially and delayed labeled data streams using semi-supervised and 
+The idiosyncrasies of applying  clustering on a data stream.
 
 # Resources
 ## CapyMOA
