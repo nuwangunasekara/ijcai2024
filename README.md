@@ -25,9 +25,12 @@ In this tutorial, our objective is to familiarize attendees with applying divers
 - [IJCAI_2024_supervised.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_supervised.ipynb)
 - [IJCAI_2024_prediction_intervals.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_prediction_intervals.ipynb)
 - [IJCAI_2024_advanced.ipynb](https://nuwangunasekara.github.io/ijcai2024/Notebooks/IJCAI_2024_advanced.ipynb)
-
-
 ## Slides
+- [0_Introduction](https://nuwangunasekara.github.io/ijcai2024/Slides/0_Introduction.pdf)
+- [1_Concept_Drift](https://nuwangunasekara.github.io/ijcai2024/Slides/1_Concept_Drift.pdf)
+- [2_Supervised_Lerning](https://nuwangunasekara.github.io/ijcai2024/Slides/2_Supervised_Lerning.pdf)
+- [4_Prediction_Intervals](https://nuwangunasekara.github.io/ijcai2024/Slides/4_Prediction_Intervals.pdf)
+- [5_Advanced_topics](https://nuwangunasekara.github.io/ijcai2024/Slides/5_Advanced_topics.pdf)
 
 ## Organizers
 
